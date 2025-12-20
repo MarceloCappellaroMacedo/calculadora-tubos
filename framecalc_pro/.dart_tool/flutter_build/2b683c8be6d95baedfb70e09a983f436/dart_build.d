@@ -1,0 +1,1 @@
+ C:\\Users\\Administrator\\Documents\\ClonarAQUI\\FrameCalc\\framecalc_pro\\.dart_tool\\flutter_build\\2b683c8be6d95baedfb70e09a983f436\\dart_build_result.json: 
