@@ -37333,7 +37333,7 @@ return new A.wO(B.Bj,"Calculadora de Eixos",A.rm(s,A.anL(B.Z,s,s,B.Iv),!0),!1,s)
 A.hP.prototype={}
 A.uB.prototype={
 ak(){var s=$.ag()
-return new A.A1(new A.bp(null,t.am),new A.zb(B.kv,s),new A.zb(B.kv,s),A.c([new A.hP("4x2",121e4,0.08,8),new A.hP("5x2",18e5,0.09,10),new A.hP("6x2,25",98e4,0.11,12.5),new A.hP("6x2,65",32e5,0.12,13),new A.hP("6x3,75",52e5,0.16,15),new A.hP("6x4,75",187e5,0.18,17),new A.hP("8x3",64e5,0.18,18),new A.hP("8x4,75",1e7,0.24,21)],t.Dj))}}
+return new A.A1(new A.bp(null,t.am),new A.zb(B.kv,s),new A.zb(B.kv,s),A.c([new A.hP('4"x2',121e4,0.08,8),new A.hP('5"x2',18e5,0.09,10),new A.hP('6"x2,25',98e4,0.11,12.5),new A.hP('6"x2,65',32e5,0.12,13),new A.hP('6"x3,75',52e5,0.16,15),new A.hP('6"x4,75',187e5,0.18,17),new A.hP('8"x3',64e5,0.18,18),new A.hP('8"x4,75',1e7,0.24,21)],t.Dj))}}
 A.A1.prototype={
 Zw(){var s,r,q,p,o,n,m,l,k,j=this,i="Veja com supervisor",h={},g=j.d.gJ(),f=g.e=!0
 g.Jb()
@@ -37360,9 +37360,9 @@ k=5*(l.c+n)*Math.pow(g,4)/(768e5*l.b)
 if(k<=h.a)if(h.b!=null?k>h.c:f){h.b=l
 h.c=k}}h.d=""
 if(q<2.5)h.d=i
-else if(q<=4.2)h.d="Interno 50 | Externo 70"
-else if(q<=5)h.d="Interno 70 | Externo 100"
-else if(q<=10)h.d="Interno 150 | Externo 180"
+else if(q<=4.2)h.d="Interno 50mm | Externo 70mm"
+else if(q<=5)h.d="Interno 70mm | Externo 100mm"
+else if(q<=10)h.d="Interno 150mm | Externo 180mm"
 else h.d=i
 j.an(new A.abq(h,j,o,q))},
 N(a){var s,r=this,q=null,p=A.W(a).ax,o=p.y2
